@@ -1,0 +1,11 @@
+.smallDiv {
+  background-color: rgb(240, 240, 240);
+  width: 770px;
+  height: 400px;
+  margin-top: 70px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 80px 80px 80px;
+  column-gap: 160px;
+  row-gap: 20px;
+}

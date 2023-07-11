@@ -1,0 +1,35 @@
+.cardContainer {
+  height: 90px;
+  width: 250px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardContainer:hover {
+  background-color: #a259ff;
+  cursor: pointer;
+}
+.cardContainer:hover .name {
+  color: white;
+}
+.cardContainer:hover .mail {
+  color: white;
+}
+.cardContainer:hover .gender {
+  color: white;
+}
+.gender {
+  margin-left: 10px;
+  color: rgb(67, 67, 67);
+}
+.name {
+  margin-top: -10px;
+  margin-left: 10px;
+}
+.mail {
+  margin-top: -10px;
+  margin-left: 10px;
+  color: red;
+}

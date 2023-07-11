@@ -1,0 +1,25 @@
+.bigDiv {
+  background-color: white;
+  height: 200px;
+  width: 600px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.bigImage {
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  margin-top: 35px;
+  margin-left: 35px;
+}
+.contentDiv {
+  font-size: large;
+  margin-left: 200px;
+  margin-top: -185px;
+}
+.Name {
+  color: red;
+}
+.emailId {
+  color: #a259ff;
+}
